@@ -1,4 +1,10 @@
 use rpg;
+/*DESCRIBES*/
+describe jogador;
+describe party;
+describe guilda;
+describe missao;
+describe missao_coletada;
 
 select * from guilda;
 select * from party;
